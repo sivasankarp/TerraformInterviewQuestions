@@ -1,7 +1,0 @@
-1 - How do you test an ansible project?
-2 - Explain lineinfile module , copy module and git module in ansible? Where do you use these?
-3 - What are ansible tags? where are ansible tags used?
-4 - What is an ansible handler? How it is different from an ansible task?
-5 - What language is an Ansible playbooks are written in by default?
-6 - Describe how Ansible works.
-7 - What are “facts” in the context of Ansible?
